@@ -9,7 +9,7 @@ A versatile individual with multiple skills and talents. My passions include Sof
 * 🌍  I'm based in Nigeria
 * 😄 Pronouns: she/her
 * ✉️  You can contact me at [ellaolunde@gmail.com](mailto:ellaolunde@gmail.com)
-* 🧠  I'm learning React, Java, and C++
+* 🧠  I'm learning React, Java, Python, and C++
 * 🤝  I'm open to collaborating on software and even hardware solutions to solve problems aligned with the United Nations Sustainable Development Goals
 * ⚡  I love meeting new people, traveling, learning new things, and just exploring. I also share my tech journey and projects on LinkedIn and X
 
